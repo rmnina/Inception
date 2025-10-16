@@ -20,5 +20,5 @@ This approach provided an opportunity to learn the principles of containerizatio
 
 Docker full documentation [here](https://docs.docker.com/)
 
-### :fr: <ins>**Most high quality training from the ultimate sensei** *(in french)*</ins>
+### :fr: <ins>**Highest quality training from the ultimate sensei** *(in french)*</ins>
 Xavki's training on Docker : the Youtube playlist [here](https://youtube.com/playlist?list=PLn6POgpklwWq0iz59-px2z-qjDdZKEvWd&si=5xWFSy8wtv1hjlAe)
